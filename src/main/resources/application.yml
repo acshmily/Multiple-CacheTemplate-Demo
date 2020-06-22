@@ -1,0 +1,5 @@
+haobai:
+  cache:
+    url: http://192.168.29.109:8090
+    user-name: test
+    password: test
